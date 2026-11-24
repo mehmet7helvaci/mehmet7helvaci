@@ -8,7 +8,7 @@ Focused on building Unity (C#) foundations while using AI-assisted prototyping w
 
 #### Featured Work
 - **[Planet of Detail](https://mehmet7h.itch.io/planet-of-detail)** — Unity 6 & URP 3D planetary ecosystem and visual showcase (WebGL & Windows builds on itch.io).
-- **[JarvisGameDesigner](https://github.com/mehmet7helvaci/JarvisGameDesigner)** — Python-based game design companion and 2D/3D asset studio with binary `.aseprite` parsing and preview viewport.
+- **[MHNdesigner](https://github.com/mehmet7helvaci/MHNdesigner)** — Python-based game design companion and 2D/3D asset studio with binary `.aseprite` parsing and preview viewport.
 - **[MeWorld](https://github.com/mehmet7helvaci/MeWorld)** — Unity 6 (URP 2D) procedural territory conquest RTS prototype.
 
 #### Core Tools & Focus
